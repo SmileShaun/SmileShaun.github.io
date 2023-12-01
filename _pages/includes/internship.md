@@ -3,7 +3,7 @@
 <div class='paper-box-text' markdown="1">
 
   
-<a class=PaperTitle href="https://www.meitu.com/ style="font-size:20px;"><b>Meitu</b></a> \\
+<a class=PaperTitle href="https://www.meitu.com/" style="font-size:20px;"><b>Meitu</b></a> \\
 Computer Vision Intern in Intelligence Group \\
 Research Content: Text-To-Image, Video Translation \\
 June. 2023 - Sep. 2023
