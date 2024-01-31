@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CVAE-dehazing.png"><img src='images/CVAE-dehazing.png' alt="ECL" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CVAE-dehazing.png"><img src='images/CVAE-dehazing.png' alt="CAVE-dehazing" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10401022"><b>Robust Haze and Thin Cloud Removal via Conditional Variational Autoencoders</b></a> \\
