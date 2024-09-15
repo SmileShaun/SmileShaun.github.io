@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PCSformer.png"><img src='images/PCSformer.png' alt="PCSformer" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PCsformer.png"><img src='images/PCsformer.png' alt="PCSformer" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing</b><br>
