@@ -9,7 +9,7 @@
 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537">PDF</a>] [<a href="https://github.com/SmileShaun/PCSformer">Code</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA">Hazy-LoveDA Dataset</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-DIOR">Hazy-DIOR Dataset</a>] <br>
 </div>
 </div>
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CLIPHaze.png"><img src='images/CLIPHaze.png' alt="CLIPHaze" width="100%"></a></div></div>
@@ -21,7 +21,7 @@
 [<a href="https://arxiv.org/abs/2408.12317">Arxiv</a>] <br>
 </div>
 </div>
-</div>
+
 
 
 
@@ -34,7 +34,7 @@ Haidong Ding, Fengying Xie, Linwei Qiu, <b><font color="red">Xiaozhe Zhang</font
 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401022">PDF</a>] <br>
 </div>
 </div>
-</div>
+
 
 
 
@@ -47,6 +47,6 @@ Linpeng Pan, <b><font color="red">Xiaozhe Zhang</font></b>, Fengying Xie, Haopen
 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10679236">PDF</a>] <br>
 </div>
 </div>
-</div>
+
 
 
