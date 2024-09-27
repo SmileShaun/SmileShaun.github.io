@@ -20,4 +20,6 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 {% include_relative includes/internship.md %}
+
+{% include_relative includes/reviewer.md %}
 <span class='anchor' id='end-page'></span>
