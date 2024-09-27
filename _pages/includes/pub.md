@@ -1,6 +1,7 @@
 # 📝 Publications
 
-* <b>Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing</b> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537">PDF</a>] [<a href="https://github.com/SmileShaun/PCSformer">Code</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA">Hazy-LoveDA Dataset</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-DIOR">Hazy-DIOR Dataset</a>] <br> 
+* <b>Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing</b><br> 
+<b>[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677537">PDF</a>] [<a href="https://github.com/SmileShaun/PCSformer">Code</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-LoveDA">Hazy-LoveDA Dataset</a>] [<a href="https://huggingface.co/datasets/SmileShaun/Hazy-DIOR">Hazy-DIOR Dataset</a>]<br>
 <b><font color="red">Xiaozhe Zhang</font></b>, Fengying Xie, Haidong Ding, Shaocheng Yan, Zhenwei Shi<br>
 <i>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024</i><br>
 
